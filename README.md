@@ -1,1 +1,1 @@
-# Full-Suite-of-Business-Inteligence-and-Business-Analytics
+# Full-Suite-of-Business-Intelligence-and-Business-Analytics
