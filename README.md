@@ -1,5 +1,12 @@
 # Full-Suite-of-Business-Intelligence-and-Business-Analytics
-This is a group project I did for my postgraduate degree. The project enhances a company's business operation and customer experience by leveraging data-driven insights and efficient business processes.
+The goal of this project is to enhance the operations and customer experience of Bookonia Ventures, an online print copy bookstore operating in Nigeria and West Africa. This enhancement was achieved through the selection and implementation of a comprehensive suite of Business Intelligence (BI) and Business Analytics systems. The project aims to leverage data-driven insights and efficient business processes to:
+
+(i) Improve inventory management to ensure book availability and prevent stockouts.
+(ii) Develop and maintain a user-friendly e-commerce platform with secure payment processing.
+(iii) Establish partnerships with publishers and suppliers to source a diverse range of print copy books.
+(iv) Implement real-time order tracking and updates for customers.
+(v) Create a Customer Relationship Management (CRM) system to capture and manage customer information, preferences, and purchase history.
+(vi) Enhance customer engagement and support channels for inquiries, complaints, and feedback.
 
 # WORKFLOW
 Porter's five forces was used to understand the Competitive forces in the industry, determine the power of suppliers and customers, and the threat of substitute products.
